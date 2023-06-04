@@ -1,0 +1,9 @@
+@extends("master")
+@section("content")
+    <div class="container mt-5" dir="rtl">
+        <div class="title text-center shadow p-4" style="background: #e3e3e3;color:orange">
+            <h2>سياسة الخصوصية</h2>
+        </div>
+        <div class="info mt-5">{!! $text->policy !!}</div>
+    </div>
+@endsection
