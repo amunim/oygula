@@ -16,7 +16,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Tajawal&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{asset('css/add.css')}}">
         <link rel="stylesheet" href="{{asset('css/style.css')}}">
-        <link rel="stylesheet" href="{{asset("css/animation.css")}}">
+        <link rel="stylesheet" href="{{asset('css/animation.css')}}">
         <link rel="icon" type="image/x-icon" href="{{asset("imgs/m-logo.png")}}">
  {!! htmlScriptTagJsApi() !!}
         <script src="https://use.fontawesome.com/2698787284.js"></script>
