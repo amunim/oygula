@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-md-5 m-auto order-md-1 order-2 pc-view">
                     <div class="img wow flipInX pt-md-5">
-                        <img src="{{asset("public/imgs/code3.gif")}}" alt="" style="width:100%;border-radius:45px" class="">
+                        <img src="{{asset("imgs/code3.gif")}}" alt="" style="width:100%;border-radius:45px" class="">
                     </div>
                 </div>
                 <div class="col-md-7 m-auto order-md-2 order-1">
@@ -31,14 +31,14 @@
                             <div class="row">
                                 <div class="col-12 my-auto mob-view">
                                     <div class="img wow flipInX">
-                                        <img src="{{asset("public/imgs/code3.gif")}}" alt="" style="width:100%;border-radius:45px" class="">
+                                        <img src="{{asset("imgs/code3.gif")}}" alt="" style="width:100%;border-radius:45px" class="">
                                     </div>
                                 </div>
                                 <div class="col-md-6 my-2 mx-auto">
                                     <div class="card shadow br-20 wow fadeIn about-icons" style="">
                                         <div class="card-body">
                                           <h5 class="card-title">
-                                            <img src="{{asset("public/imgs/quality.gif")}}" alt="" style="width:40%">
+                                            <img src="{{asset("imgs/quality.gif")}}" alt="" style="width:40%">
                                           </h5>
                                           <h2 class="card-subtitle mb-2 text-muted fw-bold m-color">الجودة</h2>
                                           <p class="h6">
@@ -54,7 +54,7 @@
                                     <div class="card shadow br-20 wow fadeIn about-icons" style="">
                                         <div class="card-body">
                                           <h5 class="card-title">
-                                            <img src="{{asset("public/imgs/lamp.gif")}}" alt="" style="width:40%">
+                                            <img src="{{asset("imgs/lamp.gif")}}" alt="" style="width:40%">
                                           </h5>
                                           <h2 class="card-subtitle mb-2 text-muted fw-bold m-color"> الإبداع و الإختلاف</h2>
                                           <p class=" h6">نحن نبتكر دائماً ونتميز بالاختلاف، لتقديم حلول برمجية فريدة ومبتكرة
@@ -70,7 +70,7 @@
                                     <div class="card shadow br-20 wow fadeIn about-icons" style="">
                                         <div class="card-body">
                                           <h5 class="card-title">
-                                            <img src="{{asset("public/imgs/team.gif")}}" alt="" style="width:40%">
+                                            <img src="{{asset("imgs/team.gif")}}" alt="" style="width:40%">
                                           </h5>
                                           <h2 class="card-subtitle mb-2 text-muted fw-bold m-color">العمل الجماعى</h2>
                                           <p class=" h6">نحن ملتزمون بالعمل عن كثب مع 
@@ -86,7 +86,7 @@
                                     <div class="card shadow br-20 wow fadeIn about-icons" style="">
                                         <div class="card-body">
                                           <h5 class="card-title">
-                                            <img src="{{asset("public/imgs/timer.gif")}}" alt="" style="width:40%">
+                                            <img src="{{asset("imgs/timer.gif")}}" alt="" style="width:40%">
                                           </h5>
                                           <h2 class="card-subtitle mb-2 text-muted fw-bold m-color">الإلتزام</h2>
                                           <p class=" h6">يلتزم جميع أعضاء فريقنا بأدوارهم بهدف تحقيق النجاح للشركة والعملاء     </p>
@@ -122,7 +122,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/ecommerce.gif")}}" alt=""  style="width:50%">
+                                        <img src="{{asset("imgs/ecommerce.gif")}}" alt=""  style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw- m-color">أنظمة التجارة الإلكترونية  </h4>
                                       <p class=" h6">تطوير منصات التجارة الإلكترونية التي تكون جذابة ومرنة ومستدامة لأحجام حركة المرور العالية
@@ -143,7 +143,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/products2.gif")}}" alt="" style="width:50%">
+                                        <img src="{{asset("imgs/products2.gif")}}" alt="" style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw-bold m-color">تطوير المنتجات</h4>
                                       <p class=" h6">نقدم لكم حلولاً كاملة لتحديث أنظمة البرامج القديمة أو إنشاء منتجات برمجية
@@ -162,7 +162,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/websiteicon.gif")}}" alt="" style="width:50%">
+                                        <img src="{{asset("imgs/websiteicon.gif")}}" alt="" style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw-bold m-color">تطوير مواقع الانترنت</h4>
                                       <p class=" h6">نحن نقدم تطبيقات ويب عالية الأداء
@@ -181,7 +181,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/ads.gif")}}" alt="" style="width:50%">
+                                        <img src="{{asset("imgs/ads.gif")}}" alt="" style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw-bold m-color">التسويق والمبيعات</h4>
                                       <p class=" h6">سواء كان التحدي لديكم يتمثل في زيادة الوعي بعلامتكم التجارية
@@ -202,7 +202,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/uxui.gif")}}" alt="" style="width:50%">
+                                        <img src="{{asset("imgs/uxui.gif")}}" alt="" style="width:50%">
                                       </h5>
                                       <h5 class="card-subtitle mb-2 text-muted fw-bold m-color">تصميم تجربة المستخدم وشاشة العميل UI/UX </h5>
                                       <p class=" h6">توفر سنوات خبرتنا الفنية قدرات لا مثيل لها لمساعدة أعمالك على
@@ -223,7 +223,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/mob-dev.gif")}}" alt=""style="width:50%">
+                                        <img src="{{asset("imgs/mob-dev.gif")}}" alt=""style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw-bold m-color">تطبيقات الهاتف الذكية</h4>
                                       <p class=" h6"> توفر سنوات خبرتنا الفنية قدرات لا مثيل لها لمساعدة أعمالك على
@@ -244,7 +244,7 @@
                                 <div class="card shadow br-20" style="">
                                     <div class="card-body">
                                       <h5 class="card-title">
-                                        <img src="{{asset("public/imgs/design.gif")}}" alt="" style="width:50%">
+                                        <img src="{{asset("imgs/design.gif")}}" alt="" style="width:50%">
                                       </h5>
                                       <h4 class="card-subtitle mb-2 text-muted fw-bold m-color">التصميم والانتاج</h4>
                                       <p class=" h6">ابتداء من محتوى شبكات التواصل الاجتماعي ومنشورات المدوّنات، 
@@ -338,7 +338,7 @@
             <div class="title mb-4" style="text-align: center;" >
                 <h4 class=" fw-bold title-btn  br-40 px-5 py-2 text-center wow bounceIn" style="display:inline-block;">تواصل معنا</h4>  
   <div class=" my-4 wow fadeIn mob-view ">
-            <img src="{{asset("public/imgs/abouticon.gif")}}" alt="" style="width: 100%" >
+            <img src="{{asset("imgs/abouticon.gif")}}" alt="" style="width: 100%" >
         </div>
                 <p class="h6 wow tada text-dark">
                      تستطيع التواصل معنا للحصول على المزيد من المعلومات 
@@ -386,7 +386,7 @@ contact@oygula.com
             </div>
         </div>
         <div class="col-md-4 my-auto wow fadeIn pc-view">
-            <img src="{{asset("public/imgs/abouticon.gif")}}" alt="" style="width: 100%" >
+            <img src="{{asset("imgs/abouticon.gif")}}" alt="" style="width: 100%" >
         </div>
       
        </div>

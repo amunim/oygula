@@ -11,7 +11,7 @@
       </a>
       </span>
       <a class="navbar-brand d-block mob-view" href="/" style="width: 10%">
-        <img src="{{asset("public/imgs/sec-logo.png")}}" alt="" style="width: 100%;border-radius:50%">
+        <img src="{{asset("imgs/sec-logo.png")}}" alt="" style="width: 100%;border-radius:50%">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -41,7 +41,7 @@
        
       </div>
       <a class="navbar-brand d-block pc-view" href="/" style="width: 5%">
-        <img src="{{asset("public/imgs/sec-logo.png")}}" alt="" style="width: 100%;border-radius:50%">
+        <img src="{{asset("imgs/sec-logo.png")}}" alt="" style="width: 100%;border-radius:50%">
       </a>
 
     </div>

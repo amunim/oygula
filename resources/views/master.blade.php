@@ -9,15 +9,15 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        <link rel="stylesheet" href="{{asset("public/css/owl.carousel.min.css")}}">
-        <link rel="stylesheet" href="{{asset("public/css/owl.carousel2.min.css")}}">
+        <link rel="stylesheet" href="{{asset("css/owl.carousel.min.css")}}">
+        <link rel="stylesheet" href="{{asset("css/owl.carousel2.min.css")}}">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Tajawal&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{asset('public/css/add.css')}}">
         <link rel="stylesheet" href="{{asset('public/css/style.css')}}">
-        <link rel="stylesheet" href="{{asset("public/css/animation.css")}}">
-        <link rel="icon" type="image/x-icon" href="{{asset("public/imgs/m-logo.png")}}">
+        <link rel="stylesheet" href="{{asset("css/animation.css")}}">
+        <link rel="icon" type="image/x-icon" href="{{asset("imgs/m-logo.png")}}">
  {!! htmlScriptTagJsApi() !!}
         <script src="https://use.fontawesome.com/2698787284.js"></script>
 
@@ -26,7 +26,7 @@
            @include("inc.navbar")
            <div class="loading">
             <div class="img ">
-                <img src="{{asset("public/imgs/main3.gif")}}" alt="" style="width:100%;border-radius:50%" >
+                <img src="{{asset("imgs/main3.gif")}}" alt="" style="width:100%;border-radius:50%" >
             </div>
            </div>
         <div> 
@@ -147,7 +147,7 @@
                     <h1 class="m-color mob-view" style="font-size: 50px;text-align:center">أيجولا</h1>
                 </div>
                 <div class="col-md-6">
-                    <img src="{{asset("public/imgs/sec-logo.png")}}" alt="" style="width: 100%">
+                    <img src="{{asset("imgs/sec-logo.png")}}" alt="" style="width: 100%">
                 </div>
                <div class="col-md-12">
                 <h4 class="text-center">لـلــحــلــول الـــتـقـنـيـة قـــيـــادة الابــــتـــكــار الــرقــمـي</h4>
@@ -165,8 +165,8 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
-        <script src="{{asset("public/js/owl.carousel.min.js")}}"></script>
-        <script src="{{asset("public/js/style.js")}}"></script>
+        <script src="{{asset("js/owl.carousel.min.js")}}"></script>
+        <script src="{{asset("js/style.js")}}"></script>
         <script src="https://www.google.com/recaptcha/enterprise.js?render=6Le74IwaAAAAAO1acbWQoUbQSSZqHM6mMUdNk0II"></script>
 <script>
 grecaptcha.enterprise.ready(function() {
@@ -177,7 +177,7 @@ grecaptcha.enterprise.ready(function() {
 
 
 </script>
-<script src="{{asset("public/js/animation.js")}}"></script>
+<script src="{{asset("js/animation.js")}}"></script>
               <script>
               new WOW().init();
          
